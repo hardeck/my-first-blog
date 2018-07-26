@@ -1,0 +1,22 @@
+#content { 
+	color : #0d0e0f;
+	padding: 20px;
+}
+#content h1 {
+	color: black;
+	font-size: 60px;
+	letter-spacing: 3px;
+	text-shadow: 2px 2px #3b4c5d;
+}
+#content a {
+	text-decoration: none;
+	color: #2f3f08;
+}
+#content a:hover {
+	color: #5f6f09;
+}
+#sidebar {
+	text-align: center;
+	width: 1200px;
+	
+}
